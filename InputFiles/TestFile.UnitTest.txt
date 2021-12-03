@@ -1,0 +1,10 @@
+// This is a testfile for unit testing purposes.
+// Please keep unchanged and otherwise disregard
+
+// This is a comment
+This is a regular text line
+!"#€%&/()=?`^^'-.,<>©@£$∞§|[]≈±´¡”¥¢‰}≠¿`^’Æ™æ~§°©•
+
+
+
+END OF FILE
